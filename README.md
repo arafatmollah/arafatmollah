@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![I am Web Developer](https://www.rlogical.com/wp-content/uploads/2019/07/frontend-dev.png)
 ### Hi there 👋, my name is Arafat
 #### I am Web Developer
-![I am Web Developer](https://www.rlogical.com/wp-content/uploads/2019/07/frontend-dev.png)
+
 
 I am a web developer and interested in new technology. Currently I am brush up front end skill will full of confidence. I am strongly believe the fact HARD WORK BEATS TALENT"
 
