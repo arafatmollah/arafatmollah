@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![I am Web Developer](https://www.rlogical.com/wp-content/uploads/2019/07/frontend-dev.png)
 ### Hi there 👋, my name is Arafat
 #### I am Web Developer
 
