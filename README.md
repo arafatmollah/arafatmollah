@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 I am a web developer and interested in new technology. Currently I am brush up front end skill will full of confidence. I am strongly believe the fact HARD WORK BEATS TALENT"
 
-Skills: REACT / JS / HTML / CSS / Node.js / Bootstrap
+Skills: 👍REACT / 😘JS / 👍HTML / ❤CSS / ✔Node.js / 😉Bootstrap
 
 - 🔭 I’m currently working on Web Development 
 - 🌱 I’m currently learning Front End 
