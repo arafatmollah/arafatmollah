@@ -1,49 +1,44 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Arafat</h1>
+<h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<!--
-**arafatmollah/arafatmollah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arafatmollah&label=Profile%20views&color=0e75b6&style=flat" alt="arafatmollah" /> </p>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **Front End Technology**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### Hi there 👋, my name is Arafat
-#### I am Web Developer
+- 🌱 I’m currently learning **Full Stack Web Development**
 
+- 👯 I’m looking to collaborate on **new technology**
 
-I am a web developer and interested in new technology. Currently I am brush up front end skill will full of confidence. I am strongly believe the fact HARD WORK BEATS TALENT"
+- 🤝 I’m looking for help with **tech enthusiast**
 
-Skills: 👍REACT / 😘JS / 👍HTML / ❤CSS / ✔Node.js / 😉Bootstrap
+- 💬 Ask me about **JavaScript**
 
-- 🔭 I’m currently working on Web Development 
-- 🌱 I’m currently learning Front End 
-- 👯 I’m looking to collaborate on new technology 
-- 🤔 I’m looking for help with tech enthusiast 
-- 💬 Ask me about Web Development 
-- 📫 How to reach me: through social media 
-- 😄 Pronouns: Arafat or you can call me ChandlerBing 
-- ⚡ Fun fact: I make jokes when I am Uncomfortable. 
+- 📫 How to reach me **arafatshuvo18@gmail.com**
 
+- ⚡ Fun fact **I make jokes when I am Uncomfortable**
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/arafatmollah)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/arafatmshuvo/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/shuvo.arafat.37)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/arafatmshuvo/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/arafatmshuvo)  
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/arafatshuvo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="arafatshuvo" height="30" width="40" /></a>
+<a href="https://twitter.com/arafatmshuvo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arafatmshuvo" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/arafatmshuvo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arafatmshuvo" height="30" width="40" /></a>
+<a href="https://fb.com/shuvo.arafat.37" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shuvo.arafat.37" height="30" width="40" /></a>
+<a href="https://dribbble.com/arafatmshuvo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="arafatmshuvo" height="30" width="40" /></a>
+<a href="https://www.behance.net/arafatmshuvo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="arafatmshuvo" height="30" width="40" /></a>
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arafatmollah)](https://github.com/anuraghazra/github-readme-stats)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=arafatmollah&show_icons=true&count_private=true)  
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/arafatmollah"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="arafatmollah" /></a><a href="https://ko-fi.com/arafatmshuvo"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="arafatmshuvo" /></a></p><br><br>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=arafatmollah)  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arafatmollah&show_icons=true&locale=en&layout=compact" alt="arafatmollah" /></p>
 
-![GitHub metrics](https://metrics.lecoq.io/arafatmollah)  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arafatmollah&show_icons=true&locale=en" alt="arafatmollah" /></p>
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=arafatmollah)  
-
-![Profile views](https://gpvc.arturio.dev/arafatmollah)  
+<p><img align="center" style={"background-color:black",border:1px solid purple} src="https://github-readme-streak-stats.herokuapp.com/?user=arafatmollah&" alt="arafatmollah" /></p>
