@@ -21,7 +21,7 @@ Hi, <h3>I'm Arafat</h3> a passionate self-taught full stack web developer from B
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/8806672/screenshots/17603851/media/4b12765239c41fce174262906fc2d8d1.gif" width="500" height="320" />
   
 - 🔭 I’m currently working on **Front End Technology**
 
