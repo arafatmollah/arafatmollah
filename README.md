@@ -63,10 +63,10 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 🚧 **my todoist stats:**
 <!-- TODO-IST:START -->
-🏆  Finished CSS basic          
+🏆  Finished CSS basic with animation         
 🌸  Completed 1 tasks today           
-✅  Completed 60 tasks so far           
-⏳  Longest streak is 5 days
+✅  Completed 100 tasks so far           
+⏳  Longest streak is 9 days
 <!-- TODO-IST:END -->
 
 
