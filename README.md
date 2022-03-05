@@ -49,11 +49,11 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
 ```text
-JavaScript     
-CSS          
-HTML 
-BootStrap
-Tailwind
+CSS3
+CSS Animation
+Responsive Website
+2 or 3 responsive website build
+Bootstrap 5
 ```
 <!--END_SECTION:waka-->
 
