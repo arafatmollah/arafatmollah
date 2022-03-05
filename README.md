@@ -65,7 +65,9 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 <!-- TODO-IST:START -->
 🏆  Start Bootstrap 5          
 🌸  Completed CSS with 8 Projects done 
+
 🌸  Start CSS Technical Documentation and HTML Recipe page 
+
 ✅  Completed 150 tasks so far           
 ⏳  Longest streak is 14 days
 <!-- TODO-IST:END -->
