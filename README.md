@@ -68,8 +68,9 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 🌸  Start CSS Technical Documentation and HTML Recipe page 
 
-✅  Completed 150 tasks so far           
-⏳  Longest streak is 14 days
+✅  Completed 150 tasks so far
+✔ Doing Bootstrap Project
+⏳  Longest streak is 16 days
 <!-- TODO-IST:END -->
 
 
