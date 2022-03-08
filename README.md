@@ -63,7 +63,8 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 🚧 **my todoist stats:**
 <!-- TODO-IST:START -->
-🏆  Start Bootstrap 5          
+🏆  Start Bootstrap 5   
+😒Bootstrap A-Z Practice
 🌸  Completed CSS with 8 Projects done 
 
 🌸  Start CSS Technical Documentation and HTML Recipe page 
