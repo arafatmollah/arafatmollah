@@ -52,11 +52,11 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
 ```text
-CSS3
-CSS Animation
-Responsive Website
-2 or 3 responsive website build
-Bootstrap 5
+JavaScript BOM
+Module BOM
+Zakat Calculator
+36
+37
 ```
 <!--END_SECTION:waka-->
 
