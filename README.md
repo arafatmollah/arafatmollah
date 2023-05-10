@@ -16,22 +16,22 @@
 
 <br />
 
-Hi, <h3>I'm Arafat</h3> a passionate self-taught full stack web developer from Bangladesh. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+Hi, <h3>I'm Arafat</h3> As a skilled Flutter developer, I specialize in creating high-quality mobile applications that offer exceptional user experiences. With a strong foundation in computer science and a solid understanding of the Flutter framework, I'm excited to take on new challenges and grow as a developer.
 
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+My expertise lies in developing custom Flutter applications that are tailored to meet the unique requirements of my clients. I possess a deep understanding of the Flutter framework, along with its associated tools and libraries, and leverage this knowledge to build feature-rich applications that exceed expectations.
 
 
   <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/8806672/screenshots/17603851/media/4b12765239c41fce174262906fc2d8d1.gif" width="500" height="320" />
   
-- 🔭 I’m currently working on **Front End Technology**
+- 🔭 I’m currently working on **Mobile Application Development**
 
-- 🌱 I’m currently learning **Full Stack Web Development**
+- 🌱 I’m currently learning **Flutter for, Cross platform development**
 
 - 👯 I’m looking to collaborate on **new technology**
 
 - 🤝 I’m looking for help with **tech enthusiast**
 
-- 💬 Ask me about **JavaScript**
+- 💬 Ask me about **Flutter**
 
 - 📫 How to reach me **arafatshuvo18@gmail.com**
 
@@ -68,15 +68,15 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 🚧 **my todoist stats:**
 <!-- TODO-IST:START -->
-🏆  Start Bootstrap 5   
-😒Bootstrap A-Z Practice
-🌸  Completed CSS with 8 Projects done 
+🏆  Finish Flutter advance topic  
+😒  Flutter quiz app practice
+🌸  Completed Flutter with 8 Projects done 
 
-🌸  Start CSS Technical Documentation and HTML Recipe page 
+🌸  Building addaptive UI
 
 ✅  Completed 150 tasks so far
-✔ Doing Bootstrap Project
-⏳  Longest streak is 16 days
+✔ Native device feature
+⏳  Longest streak is 18 days
 <!-- TODO-IST:END -->
 
 
