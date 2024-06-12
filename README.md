@@ -12,7 +12,7 @@
   <img align="left"  width="22px" src="https://play-lh.googleusercontent.com/P2VMEenhpIsubG2oWbvuLGrs0GyyzLiDosGTg8bi8htRXg9Uf0eUtHiUjC28p1jgHzo" />
 </a>
 
-![](https://komarev.com/ghpvc/?username=arafatmollah&color=orange)
+
 
 <br />
 
