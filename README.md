@@ -1,75 +1,96 @@
-<h1 align="center">Hi 👋, I'm Arafat Mollah</h1>
-<h3 align="center">🚀 Passionate Frontend Developer from Bangladesh</h3>
-
-### ☕ Connect with me!
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Arafat Mollah</h1>
+<h3 align="center">🚀 Passionate Full Stack Developer & UI/UX Designer from Bangladesh</h3>
 
 <p align="center">
-  <a href="https://facebook.com/shuvo.arafat.37" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
-  <a href="https://youtube.com/arafatshuvo" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/arafatmshuvo" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/arafatshuvo" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/arafatmshuvo" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-  <a href="mailto:arafatshuvo18@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=Code.+Design.+Repeat+💻;Bringing+ideas+to+life+🌟;Let%27s+build+awesome+products+🚀&center=true&width=500&height=45&color=00FFFF&vCenter=true&pause=1000&size=22" />
+
 </p>
 
+---
+
+### ☕ Connect with Me!
+
+<p align="center">
+  <a href="https://facebook.com/shuvo.arafat.37"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://youtube.com/arafatshuvo"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/arafatmshuvo"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://instagram.com/arafatshuvo"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://twitter.com/arafatmshuvo"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="mailto:arafatshuvo18@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
 ### 👨‍💻 About Me
-#### Hey there! I'm Arafat Shuvo, a passionate Full Stack Developer and UI/UX Designer from Bangladesh. I love building meaningful digital experiences—from clean, functional UIs to powerful web apps.
+
+I'm Arafat Shuvo — a curious dev who turns ideas into real products with modern stacks & sleek UI.  
+Currently building **Islamic Gamified Apps**, enterprise tools, and learning cloud integration ☁️.
+
+💡 **Mission:** Build apps that matter, inspire, and empower 🌍  
+📚 Lifelong learner | 🎨 Detail-obsessed designer | 🧠 Always shipping
 
 ---
 
 ### 🧠 Currently Exploring
 
-- Advanced **React** Ecosystem
-- **TypeScript**, **Next.js**, and **Node.js**
-- Building stunning UI with **Figma**, **Framer**, and **Tailwind CSS**
+- 🔥 Mastering **Next.js**, **TypeScript**, and **Serverless APIs**
+- 🧩 Making reusable **Angular components**
+- 🎨 Designing clean interfaces in **Figma**, **Framer**, and **Tailwind CSS**
 
 ---
 
-
-
-<h3 align="center">🧩 Things I Code With</h3>
+### 🧩 Tech Toolbox
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=fff" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Express-000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
+---
+
+### 🔥 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arafat-shuvo&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=arafat-shuvo&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arafat-shuvo&layout=compact&theme=tokyonight&hide_border=true" height="130"/>
+</p>
 
 ---
 
-### 💬 Fun & Personal
+### 🧪 Project Spotlight
 
-- ❤️ I enjoy programming and sharing knowledge  
-- 💻 Most used line of code: `console.log("hello world")`  
-- 🤔 Looking for people who can help me with **outstanding video ideas and executions**  
-- 📧 Reach me at **arafatshuvo18@gmail.com**  
-- ⚡ Fun fact: I am great follower of mcu and watched every film and series that marvel have released
+- 📦 **HRMS Web App** (Angular + .NET) — Modern HR management  
+- 🕌 **Islamic Productivity App** — Prayer tracker, daily rewards, Quran gamification  
+- 🛠️ **Training Management System** — Robust admin panel + modular UI
 
 ---
 
+### 🌀 Fun & Personal
+
+- 💬 Most used line: `console.log("hello world")`  
+- 🎥 MCU nerd — seen every movie & series 😎  
+- 🧠 Constantly collecting cool dev ideas  
+- 💡 Always up for collaboration on meaningful apps  
+- 📨 Email me at: **arafatshuvo18@gmail.com**
 
 ---
 
-🔗 *Let’s build something amazing together!*
+> “Code is art. UI is poetry. Innovation is faith.” — *Arafat Shuvo*
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=arafat-shuvo&style=flat-square&color=00FFFF" alt="profile views"/>
+</p>
