@@ -25,7 +25,7 @@
 </p>
 
 ### 👨‍💻 About Me
-###### Hey there! I'm Arafat Shuvo, a passionate Full Stack Developer and UI/UX Designer from Bangladesh. I love building meaningful digital experiences—from clean, functional UIs to powerful web apps.
+#### Hey there! I'm Arafat Shuvo, a passionate Full Stack Developer and UI/UX Designer from Bangladesh. I love building meaningful digital experiences—from clean, functional UIs to powerful web apps.
 
 ---
 
