@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Arafat Mollah</h1>
-<h3 align="center">🚀 Passionate Full Stack Developer & UI/UX Designer from Bangladesh</h3>
+<h3 align="center">🚀 Software Engineer</h3>
 
 <p align="center">
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Code.+Design.+Repeat+💻;Bringing+ideas+to+life+🌟;Let%27s+build+awesome+products+🚀&center=true&width=500&height=45&color=00FFFF&vCenter=true&pause=1000&size=22" />
