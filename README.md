@@ -67,7 +67,6 @@ Currently building **Islamic Gamified Apps**, enterprise tools, and learning clo
 - 🛠️ **Training Management System** — Robust admin panel + modular UI
 
 ---
-![GitHub Stats Card](https://ghstats.dev/api/card?username=arafatmollah&theme=radical)
 ### 🌀 Fun & Personal
 
 - 💬 Most used line: `console.log("hello world")`  
